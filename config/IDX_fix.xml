@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+	<!--The Olanto Foundation-->
+	<!--This is the parameter file for the indexing server-->
+<properties>   
+	<!-- check a nice cycle open, modify, save, close--> 
+    <entry key="CHECK_CONSISTENT">no</entry>
+	<!--Constant Parameters. If this is modified, the index structure must be entirely rebuilt.--> 
+	<!--Maximum number of documents allowed (=2^DOC_MAXBIT) THIS PARAMETER MUST BE IDENTICAL TO THE DOC_MAXBIT PARAMETER IN MAP_fix.xml--> 
+    <entry key="DOC_MAXBIT">26</entry>
+    <entry key="DOC_PROPERTIES_MAXBIT">6</entry>
+	<!--Maximum number of words allowed (=2^WORD_MAXBIT) --> 
+    <entry key="WORD_MAXBIT">22</entry>
+    <!--Internal indexing parameters (DO NOT CHANGE) --> 
+    <entry key="WORD_IMPLEMENTATION">XL</entry>
+    <entry key="DOC_IMPLEMENTATION">XL</entry>
+    <entry key="OBJ_IMPLEMENTATION">XL</entry>
+    <entry key="IDX_WITHDOCBAG">false</entry>
+    <entry key="IDX_MORE_INFO">false</entry>
+    <entry key="IDX_SAVE_POSITION">true</entry>
+    <entry key="IDX_ZIP_CACHE">true</entry>
+    <entry key="IDX_ZIP_CACHE_FASTLOAD">true</entry>
+    <entry key="HOPE_COMPRESSION">32</entry>
+	
+
+	<!--Number of independants disks (2^OBJ_PW2)-->     
+    <entry key="OBJ_PW2">0</entry> 
+     <!--Maximum size of document names-->
+    <entry key="DOC_SIZE_NAME">30</entry>
+    <!--Maximum size of words (after which words are truncated)-->
+    <entry key="WORD_MAXLENGTH">24</entry>
+    <!--WORD_EXPANSION-->
+    <entry key="WORD_EXPANSION">false</entry>
+    <!--DOCNAME_EXPANSION-->
+    <entry key="DOCNAME_EXPANSION">false</entry>
+    
+    <!--Dynamic Parameters. Index rebuilding not required-->    
+    <entry key="DOC_ENCODING">UTF-8</entry>
+    <entry key="IDX_MFLF_ENCODING">UTF-8</entry>
+    <!--Minimum size of words -->
+    <entry key="WORD_MINLENGTH">2</entry>
+    <!--Defines what a word is -->
+    <entry key="TOKEN_DEFINITION">org.olanto.mytmx.generic.TokenAlphaOnly</entry>   
+ 
+    <!--parameters to get the original document
+ 	 <entry key="ORIGINAL_CODE">client.getOriginal</entry>--> 
+    <entry key="ORIGINAL_CODE">org.olanto.idxvli.server.OriginalService_Default</entry>
+  	
+   <!--parameters to execute a pre-processing 
+  	<entry key="PRE_PROCESSING_CODE">client.PreProcessing</entry>--> 
+   	 <entry key="PRE_PROCESSING_CODE">org.olanto.idxvli.server.PreProcessingService_Default</entry>
+	 
+	 <!--Number of seconds before the next Update (only use if the continuous indexing parameter is activated)-->
+   	 <entry key="PRE_PROCESSING_INTERVAL">3600</entry>
+
+	<!--These parameters are currently not used --> 
+    <entry key="WORD_USE_STEMMER">false</entry>
+    <entry key="WORD_STEMMING_LANG">english</entry>
+    <entry key="MODE_RANKING">BM25</entry>
+ 
+	<!--MAX_RESPONSE: Maximum number of reference documents in the Hit List when using the Search function (must be identical to the same parameter name in the GUI_fix.xml file)-->
+    <entry key="MAX_RESPONSE">2000</entry>
+	<!--MAX_BROWSE: Maximum number of reference documents in the Hit List when using the Browse function (must be identical to the same parameter name in the GUI_fix.xml file)-->
+	<entry key="DOCNAME_MAX_BROWSE">1000</entry>
+	<!--DOCNAME_BROWSE_INSENSITIVE:  case_insensitive when using the Browse function -->
+	<entry key="DOCNAME_BROWSE_INSENSITIVE">true</entry>
+ 
+	<!--Number of words for the NEAR operator -->
+    <entry key="NEAR_DISTANCE">8</entry>
+ 
+	<!--Path definitions -->
+     <entry key="IDX_DONTINDEXTHIS">C:/MYTMX/config/dontindexthiswords.txt</entry>
+     <entry key="DICT_FILE">C:/MYTMX/dict/en.dic</entry>
+     <entry key="ORG_FILE">C:/MYTMX/dict/organisation.dic</entry>
+     <entry key="ROOT_CORPUS_SOURCE">C:/MYTMX/corpus/source</entry>
+     <entry key="ROOT_CORPUS_TXT">C:/MYTMX/corpus/txt</entry>
+	 <entry key="TEMP_FOLDER">C:/MYTMX/TEMP</entry>
+	<entry key="COMLOG_FILE">C:/MYTMX/data/CM_IDX/common.log</entry>   
+    <entry key="DETLOG_FILE">C:/MYTMX/data/CM_IDX/detail.log</entry>
+    <entry key="COMMON_ROOT">C:/MYTMX/data/CM_IDX</entry>
+	<entry key="OBJ_ROOT_0">C:/MYTMX/data/CM_IDX/idx0</entry>
+    <entry key="------OBJ_ROOT_1"></entry>
+    <entry key="------OBJ_ROOT_2"></entry>
+    <entry key="------OBJ_ROOT_3"></entry>
+    <entry key="------OBJ_ROOT_4"></entry>
+    <entry key="------OBJ_ROOT_5"></entry>
+    <entry key="------OBJ_ROOT_6"></entry>
+    <entry key="------OBJ_ROOT_7"></entry>
+	
+	 <!--Supported languages (they appear in the GUI drop menus in the following order:) -->
+     <entry key="ROOT_CORPUS_LANG">EN FR</entry>
+	 
+	      
+	<!--These parameters are currently not used -->
+     <entry key="PHONET_FILE">C:/MYTMX/dict/phonet.en</entry>
+     <entry key="LANGUAGE_TRAINING">C:/MYTMX/dtk/</entry>
+     <entry key="COLLECTION_DOMAIN">C:/MYTMX/url/urlcollection.txt</entry>  
+
+	<!--Indexing Cache parameters -->
+      <entry key="CACHE_IMPLEMENTATION_INDEXING">BIG</entry>
+      <entry key="IDX_CACHE_COUNT">1</entry>
+      <entry key="IDX_RESERVE">2</entry>
+      <entry key="INDEXING_CACHE_SIZE">500</entry>
+      <entry key="KEEP_IN_CACHE">90</entry>
+
+	<!--Runtime Cache parameters -->
+      <entry key="CACHE_IMPLEMENTATION_READ">BIG</entry>
+      <entry key="QUERY_CACHE_SIZE">1000</entry>
+      <entry key="QUERY_CACHE_COUNT">256</entry>
+	  <!--Path to the file containing all the SERVER messages -->
+      <entry key="SERVER_MESSAGE_PATH">C:/MYTMX/config/messages/interface/initserver</entry> 
+      <entry key="SERVER_MESSAGE_LANG"></entry>
+	<!-- Regular expression for search = -->
+
+</properties>

@@ -1,0 +1,254 @@
+﻿quot	"	U+0022 (34)	HTML 2.0	HTMLspecial	ISOnum	Guillemet droit
+amp	&	U+0026 (38)	HTML 2.0	HTMLspecial	ISOnum	Esperluette (« et » commercial)
+apos	'	U+0027 (39)	XHTML 1.0	HTMLspecial	ISOnum	Apostrophe
+lt	<	U+003C (60)	HTML 2.0	HTMLspecial	ISOnum	Signe inférieur à
+gt	>	U+003E (62)	HTML 2.0	HTMLspecial	ISOnum	Signe supérieur à
+nbsp	 	U+00A0 (160)	HTML 3.2	HTMLlat1	ISOnum	Espace insécable
+iexcl	¡	U+00A1 (161)	HTML 3.2	HTMLlat1	ISOnum	Points d'interrogation et d'exclamation culbutés
+cent	¢	U+00A2 (162)	HTML 3.2	HTMLlat1	ISOnum	Symbole Cent
+pound	£	U+00A3 (163)	HTML 3.2	HTMLlat1	ISOnum	Livre, devise britannique
+curren	¤	U+00A4 (164)	HTML 3.2	HTMLlat1	ISOnum	Symbole monétaire
+yen	¥	U+00A5 (165)	HTML 3.2	HTMLlat1	ISOnum	Yen, devise japonaise
+brvbar	¦	U+00A6 (166)	HTML 3.2	HTMLlat1	ISOnum	Barre verticale brisée
+sect	§	U+00A7 (167)	HTML 3.2	HTMLlat1	ISOnum	Symbole paragraphe
+uml	¨	U+00A8 (168)	HTML 3.2	HTMLlat1	ISOdia	Tréma
+copy	©	U+00A9 (169)	HTML 3.2	HTMLlat1	ISOnum	Symbole Copyright
+ordf	ª	U+00AA (170)	HTML 3.2	HTMLlat1	ISOnum	Indicateur ordinal féminin
+laquo	«	U+00AB (171)	HTML 3.2	HTMLlat1	ISOnum	Guillemet gauche
+not	¬	U+00AC (172)	HTML 3.2	HTMLlat1	ISOnum	Symbole non logique
+shy	 	U+00AD (173)	HTML 3.2	HTMLlat1	ISOnum	Trait d'union conditionnel
+reg	®	U+00AE (174)	HTML 3.2	HTMLlat1	ISOnum	Symbole Registered trademark
+macr	¯	U+00AF (175)	HTML 3.2	HTMLlat1	ISOdia	Macron
+deg	°	U+00B0 (176)	HTML 3.2	HTMLlat1	ISOnum	Symbole Degré
+plusmn	±	U+00B1 (177)	HTML 3.2	HTMLlat1	ISOnum	Signe plus ou moins
+sup2	²	U+00B2 (178)	HTML 3.2	HTMLlat1	ISOnum	Exposant deux
+sup3	³	U+00B3 (179)	HTML 3.2	HTMLlat1	ISOnum	Exposant trois
+acute	´	U+00B4 (180)	HTML 3.2	HTMLlat1	ISOdia	Accent aigu
+micro	µ	U+00B5 (181)	HTML 3.2	HTMLlat1	ISOnum	Symbole micro (lettre grec mu minuscule)
+para	¶	U+00B6 (182)	HTML 3.2	HTMLlat1	ISOnum	Pied-de-mouche (Symbole paragraphe)
+middot	·	U+00B7 (183)	HTML 3.2	HTMLlat1	ISOnum	Point médian
+cedil	¸	U+00B8 (184)	HTML 3.2	HTMLlat1	ISOdia	Cédille
+sup1	¹	U+00B9 (185)	HTML 3.2	HTMLlat1	ISOnum	Exposant un
+ordm	º	U+00BA (186)	HTML 3.2	HTMLlat1	ISOnum	Indicateur ordinal masculin
+raquo	»	U+00BB (187)	HTML 3.2	HTMLlat1	ISOnum	Guillemet droit
+frac14	¼	U+00BC (188)	HTML 3.2	HTMLlat1	ISOnum	Fraction un-quart (un divisé par quatre)
+frac12	½	U+00BD (189)	HTML 3.2	HTMLlat1	ISOnum	Fraction un-demi (un divisé par deux)
+frac34	¾	U+00BE (190)	HTML 3.2	HTMLlat1	ISOnum	Fraction trois-quart (trois divisé par quatre)
+iquest	¿	U+00BF (191)	HTML 3.2	HTMLlat1	ISOnum	Points d'interrogation culbutés
+Agrave	À	U+00C0 (192)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine A avec un accent grave
+Aacute	Á	U+00C1 (193)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine A avec un accent aigu
+Acirc	Â	U+00C2 (194)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine A avec un accent circonflexe
+Atilde	Ã	U+00C3 (195)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine A avec un tilde
+Auml	Ä	U+00C4 (196)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine A avec des trémas
+Aring	Å	U+00C5 (197)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine A surmonté d'un cercle
+AElig	Æ	U+00C6 (198)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine AE
+Ccedil	Ç	U+00C7 (199)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine C avec une cédille
+Egrave	È	U+00C8 (200)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine E avec un accent grave
+Eacute	É	U+00C9 (201)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine E avec un accent aigu
+Ecirc	Ê	U+00CA (202)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine E avec un accent circonflexe
+Euml	Ë	U+00CB (203)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine E avec des trémas
+Igrave	Ì	U+00CC (204)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine I avec un accent grave
+Iacute	Í	U+00CD (205)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine I avec un accent aigu
+Icirc	Î	U+00CE (206)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine I avec un accent circonflexe
+Iuml	Ï	U+00CF (207)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine I avec des trémas
+ETH	Ð	U+00D0 (208)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine Eth
+Ntilde	Ñ	U+00D1 (209)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine N avec un tilde
+Ograve	Ò	U+00D2 (210)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine O avec un accent grave
+Oacute	Ó	U+00D3 (211)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine O avec un accent aigu
+Ocirc	Ô	U+00D4 (212)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine O avec un accent circonflexe
+Otilde	Õ	U+00D5 (213)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine O avec un tilde
+Ouml	Ö	U+00D6 (214)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine O avec des trémas
+times	×	U+00D7 (215)	HTML 3.2	HTMLlat1	ISOnum	Croix de multiplication
+Oslash	Ø	U+00D8 (216)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine O barré
+Ugrave	Ù	U+00D9 (217)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine U avec un accent grave
+Uacute	Ú	U+00DA (218)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine U avec un accent aigu
+Ucirc	Û	U+00DB (219)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine U avec un accent circonflexe
+Uuml	Ü	U+00DC (220)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine U avec des trémas
+Yacute	Ý	U+00DD (221)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine Y avec un accent aigu
+THORN	Þ	U+00DE (222)	HTML 2.0	HTMLlat1	ISOlat1	Lettre majuscule latine Þ (Thorn)
+szlig	ß	U+00DF (223)	HTML 2.0	HTMLlat1	ISOlat1	Eszett
+agrave	à	U+00E0 (224)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine a avec un accent grave
+aacute	á	U+00E1 (225)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine a avec un accent aigu
+acirc	â	U+00E2 (226)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine a avec un accent circonflexe
+atilde	ã	U+00E3 (227)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine a avec un tilde
+auml	ä	U+00E4 (228)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine a avec des trémas
+aring	å	U+00E5 (229)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine a surmonté d'un cercle
+aelig	æ	U+00E6 (230)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine ae
+ccedil	ç	U+00E7 (231)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine c avec une cédille
+egrave	è	U+00E8 (232)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine e avec un accent grave
+eacute	é	U+00E9 (233)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine e avec un accent aigu
+ecirc	ê	U+00EA (234)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine e avec un accent circonflexe
+euml	ë	U+00EB (235)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine e avec des trémas
+igrave	ì	U+00EC (236)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine i avec un accent grave
+iacute	í	U+00ED (237)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine i avec un accent aigu
+icirc	î	U+00EE (238)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latinee i avec un accent circonflexe
+iuml	ï	U+00EF (239)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine i avec des trémas
+eth	ð	U+00F0 (240)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine Eth
+ntilde	ñ	U+00F1 (241)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine n avec un tilde
+ograve	ò	U+00F2 (242)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine o avec un accent grave
+oacute	ó	U+00F3 (243)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine o avec un accent aigu
+ocirc	ô	U+00F4 (244)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latinee o avec un accent circonflexe
+otilde	õ	U+00F5 (245)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine o avec un tilde
+ouml	ö	U+00F6 (246)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine o avec des trémas
+divide	÷	U+00F7 (247)	HTML 3.2	HTMLlat1	ISOnum	Obélus (Symbole de la division)
+oslash	ø	U+00F8 (248)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine o barré
+ugrave	ù	U+00F9 (249)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine u avec un accent grave
+uacute	ú	U+00FA (250)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine u avec un accent aigu
+ucirc	û	U+00FB (251)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latinee u avec un accent circonflexe
+uuml	ü	U+00FC (252)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine o avec des trémas
+yacute	ý	U+00FD (253)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine y avec un accent aigu
+thorn	þ	U+00FE (254)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine Þ (Thorn)
+yuml	ÿ	U+00FF (255)	HTML 2.0	HTMLlat1	ISOlat1	Lettre minuscule latine y avec des trémas
+OElig	Œ	U+0152 (338)	HTML 4.0	HTMLspecial	ISOlat2	Lettre majuscule latine OE
+oelig	œ	U+0153 (339)	HTML 4.0	HTMLspecial	ISOlat2	Lettre minuscule latine oe
+Scaron	Š	U+0160 (352)	HTML 4.0	HTMLspecial	ISOlat2	Lettre majuscule latine S avec un caron
+scaron	š	U+0161 (353)	HTML 4.0	HTMLspecial	ISOlat2	Lettre minuscule latine S avec un caron
+Yuml	Ÿ	U+0178 (376)	HTML 4.0	HTMLspecial	ISOlat2	Lettre majuscule latine Y avec des trémas
+fnof	ƒ	U+0192 (402)	HTML 4.0	HTMLsymbol	ISOtech	Lettre minuscule latine f avec crochet (Symbole d'une fonction en mathématiques)
+circ	ˆ	U+02C6 (710)	HTML 4.0	HTMLspecial	ISOpub	Accent circonflexe
+tilde	˜	U+02DC (732)	HTML 4.0	HTMLspecial	ISOdia	tilde
+Alpha	Α	U+0391 (913)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Alpha
+Beta	Β	U+0392 (914)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Beta
+Gamma	Γ	U+0393 (915)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Gamma
+Delta	Δ	U+0394 (916)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Delta
+Epsilon	Ε	U+0395 (917)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Epsilon
+Zeta	Ζ	U+0396 (918)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Zêta
+Eta	Η	U+0397 (919)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Eta
+Theta	Θ	U+0398 (920)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Theta
+Iota	Ι	U+0399 (921)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Iota
+Kappa	Κ	U+039A (922)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Kappa
+Lambda	Λ	U+039B (923)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Lambda
+Mu	Μ	U+039C (924)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Mu
+Nu	Ν	U+039D (925)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Nu
+Xi	Ξ	U+039E (926)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Xi
+Omicron	Ο	U+039F (927)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Omicron
+Pi	Π	U+03A0 (928)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Pi
+Rho	Ρ	U+03A1 (929)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Rho
+Sigma	Σ	U+03A3 (931)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Sigma
+Tau	Τ	U+03A4 (932)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Tau
+Upsilon	Υ	U+03A5 (933)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Upsilon
+Phi	Φ	U+03A6 (934)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Phi
+Chi	Χ	U+03A7 (935)	HTML 4.0	HTMLsymbol		Lettre majuscule grec Chi
+Psi	Ψ	U+03A8 (936)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Psi
+Omega	Ω	U+03A9 (937)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre majuscule grec Omega
+alpha	α	U+03B1 (945)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec alpha
+beta	β	U+03B2 (946)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec beta
+gamma	γ	U+03B3 (947)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec gamma
+delta	δ	U+03B4 (948)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec delta
+epsilon	ε	U+03B5 (949)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec epsilon
+zeta	ζ	U+03B6 (950)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec zêta
+eta	η	U+03B7 (951)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec eta
+theta	θ	U+03B8 (952)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec theta
+iota	ι	U+03B9 (953)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec iota
+kappa	κ	U+03BA (954)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec kappa
+lambda	λ	U+03BB (955)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec lambda
+mu	μ	U+03BC (956)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec mu
+nu	ν	U+03BD (957)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec nu
+xi	ξ	U+03BE (958)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec xi
+omicron	ο	U+03BF (959)	HTML 4.0	HTMLsymbol		Lettre minuscule grec omicron
+pi	π	U+03C0 (960)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec pi
+rho	ρ	U+03C1 (961)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec rho
+sigmaf	ς	U+03C2 (962)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec sigma (en fin de mot)
+sigma	σ	U+03C3 (963)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec sigma
+tau	τ	U+03C4 (964)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec tau
+upsilon	υ	U+03C5 (965)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec upsilon
+phi	φ	U+03C6 (966)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec phi
+chi	χ	U+03C7 (967)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec chi
+psi	ψ	U+03C8 (968)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec psi
+omega	ω	U+03C9 (969)	HTML 4.0	HTMLsymbol	ISOgrk3	Lettre minuscule grec omega
+thetasym	ϑ	U+03D1 (977)	HTML 4.0	HTMLsymbol		Symbole theta grec
+upsih	ϒ	U+03D2 (978)	HTML 4.0	HTMLsymbol		Lettre minuscule grec Upsilon (avec crochet)
+piv	ϖ	U+03D6 (982)	HTML 4.0	HTMLsymbol	ISOgrk3	Symbole pi grec
+ensp	 	U+2002 (8194)	HTML 4.0	HTMLspecial	ISOpub	Espace en
+emsp	 	U+2003 (8195)	HTML 4.0	HTMLspecial	ISOpub	Espace em
+thinsp	 	U+2009 (8201)	HTML 4.0	HTMLspecial	ISOpub	Espace fin
+zwnj	 	U+200C (8204)	HTML 4.0	HTMLspecial		Antiliant sans chasse
+zwj	 	U+200D (8205)	HTML 4.0	HTMLspecial		Liant sans chasse
+lrm	 	U+200E (8206)	HTML 4.0	HTMLspecial		Marque gauche-à-droite
+rlm	 	U+200F (8207)	HTML 4.0	HTMLspecial		Marque droite-à-gauche
+ndash	–	U+2013 (8211)	HTML 4.0	HTMLspecial	ISOpub	Tiret moyen
+mdash	—	U+2014 (8212)	HTML 4.0	HTMLspecial	ISOpub	Tiret long
+lsquo	‘	U+2018 (8216)	HTML 4.0	HTMLspecial	ISOnum	Guillemet-apostrophe culbuté
+rsquo	’	U+2019 (8217)	HTML 4.0	HTMLspecial	ISOnum	guillemet-apostrophe
+sbquo	‚	U+201A (8218)	HTML 4.0	HTMLspecial		Guillemet-virgule inférieur
+ldquo	“	U+201C (8220)	HTML 4.0	HTMLspecial	ISOnum	guillemet-apostrophe double culbuté
+rdquo	”	U+201D (8221)	HTML 4.0	HTMLspecial	ISOnum	guillemet-apostrophe double
+bdquo	„	U+201E (8222)	HTML 4.0	HTMLspecial		Guillemet-virgule double inférieur
+dagger	†	U+2020 (8224)	HTML 4.0	HTMLspecial	ISOpub	Obèle
+Dagger	‡	U+2021 (8225)	HTML 4.0	HTMLspecial	ISOpub	Double obèle
+bull	•	U+2022 (8226)	HTML 4.0	HTMLspecial	ISOpub	Puce
+hellip	…	U+2026 (8230)	HTML 4.0	HTMLsymbol	ISOpub	Points de suspension horizontaux
+permil	‰	U+2030 (8240)	HTML 4.0	HTMLspecial	ISOtech	Symbole pour mille
+prime	′	U+2032 (8242)	HTML 4.0	HTMLsymbol	ISOtech	Prime
+Prime	″	U+2033 (8243)	HTML 4.0	HTMLsymbol	ISOtech	Double prime
+lsaquo	‹	U+2039 (8249)	HTML 4.0	HTMLspecial	ISO proposed	Guillemet simple vers la gauche
+rsaquo	›	U+203A (8250)	HTML 4.0	HTMLspecial	ISO proposed	Guillemet simple vers la droite
+oline	‾	U+203E (8254)	HTML 4.0	HTMLsymbol		Trait suscrit
+frasl	⁄	U+2044 (8260)	HTML 4.0	HTMLsymbol		Barre oblique (aussi appelé Trait de fraction ou Slash)
+euro	€	U+20AC (8364)	HTML 4.0	HTMLspecial		Symbole euro
+image	ℑ	U+2111 (8465)	HTML 4.0	HTMLsymbol	ISOamso	I gothique majuscule (Partie imaginaire d'un nombre)
+weierp	℘	U+2118 (8472)	HTML 4.0	HTMLsymbol	ISOamso	Symbole de la fonction elliptique de Weierstrass
+real	ℜ	U+211C (8476)	HTML 4.0	HTMLsymbol	ISOamso	R gothique majuscule (Partie réelle d'un nombre)
+trade	™	U+2122 (8482)	HTML 4.0	HTMLsymbol	ISOnum	Symbole anglais d'une Marque de Commerce (Trademark)
+alefsym	ℵ	U+2135 (8501)	HTML 4.0	HTMLsymbol		Aleph
+larr	←	U+2190 (8592)	HTML 4.0	HTMLsymbol	ISOnum	Flèche vers la gauche
+uarr	↑	U+2191 (8593)	HTML 4.0	HTMLsymbol	ISOnum	Flèche vers le haut
+rarr	→	U+2192 (8594)	HTML 4.0	HTMLsymbol	ISOnum	Flèche vers la droite
+darr	↓	U+2193 (8595)	HTML 4.0	HTMLsymbol	ISOnum	flèche vers le bas
+harr	↔	U+2194 (8596)	HTML 4.0	HTMLsymbol	ISOamsa	Flèche bilatérale
+crarr	↵	U+21B5 (8629)	HTML 4.0	HTMLsymbol		Flèche haut et bas
+lArr	⇐	U+21D0 (8656)	HTML 4.0	HTMLsymbol	ISOtech	Double flèche vers la gauche
+uArr	⇑	U+21D1 (8657)	HTML 4.0	HTMLsymbol	ISOamsa	Double flèche vers le haut
+rArr	⇒	U+21D2 (8658)	HTML 4.0	HTMLsymbol	ISOnum	Double flèche vers la droite
+dArr	⇓	U+21D3 (8659)	HTML 4.0	HTMLsymbol	ISOamsa	Double flèche vers le bas
+hArr	⇔	U+21D4 (8660)	HTML 4.0	HTMLsymbol	ISOamsa	Double flèche bilatérale
+forall	∀	U+2200 (8704)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Pour tous
+part	∂	U+2202 (8706)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Dérivée partielle
+exist	∃	U+2203 (8707)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Quantificateur existentiel
+empty	∅	U+2205 (8709)	HTML 4.0	HTMLsymbol	ISOamso	Symbole mathématique Ensemble vide
+nabla	∇	U+2207 (8711)	HTML 4.0	HTMLsymbol	ISOtech	Symbole Nabla
+isin	∈	U+2208 (8712)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Appartient à
+notin	∉	U+2209 (8713)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique N'appartient pas à
+ni	∋	U+220B (8715)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Contient comme élément
+prod	∏	U+220F (8719)	HTML 4.0	HTMLsymbol	ISOamsb	Symbole mathématique Produit
+sum	∑	U+2211 (8721)	HTML 4.0	HTMLsymbol	ISOamsb	Symbole mathématique Somme
+minus	−	U+2212 (8722)	HTML 4.0	HTMLsymbol	ISOtech	Symbole moins
+lowast	∗	U+2217 (8727)	HTML 4.0	HTMLsymbol	ISOtech	Astérisque
+radic	√	U+221A (8730)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Racine carrée
+prop	∝	U+221D (8733)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Proportionnel à
+infin	∞	U+221E (8734)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Infini
+ang	∠	U+2220 (8736)	HTML 4.0	HTMLsymbol	ISOamso	Symbole mathématique Angle
+and	∧	U+2227 (8743)	HTML 4.0	HTMLsymbol	ISOtech	Symbole ET logique
+or	∨	U+2228 (8744)	HTML 4.0	HTMLsymbol	ISOtech	Symbole OU logique
+cap	∩	U+2229 (8745)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Intersection
+cup	∪	U+222A (8746)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Union
+int	∫	U+222B (8747)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Intégration
+there4	∴	U+2234 (8756)	HTML 4.0	HTMLsymbol	ISOtech	Astérisme
+sim	∼	U+223C (8764)	HTML 4.0	HTMLsymbol	ISOtech	tilde
+cong	≅	U+2245 (8773)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Approximativement égal à
+asymp	≈	U+2248 (8776)	HTML 4.0	HTMLsymbol	ISOamsr	Symbole mathématique Asymptotique à
+ne	≠	U+2260 (8800)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Pas égale à
+equiv	≡	U+2261 (8801)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Congruence
+le	≤	U+2264 (8804)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Inférieur ou égal à
+ge	≥	U+2265 (8805)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Supérieur ou égal à
+sub	⊂	U+2282 (8834)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Sous-ensemble de
+sup	⊃	U+2283 (8835)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Sur-ensemble de
+nsub	⊄	U+2284 (8836)	HTML 4.0	HTMLsymbol	ISOamsn	Symbole mathématique Pas un sous-ensemble de
+sube	⊆	U+2286 (8838)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Sous-ensemble ou égal à
+supe	⊇	U+2287 (8839)	HTML 4.0	HTMLsymbol	ISOtech	Symbole mathématique Sur-ensemble ou égal à
+oplus	⊕	U+2295 (8853)	HTML 4.0	HTMLsymbol	ISOamsb	Symbole mathématique Somme directe (Plus cerclé)
+otimes	⊗	U+2297 (8855)	HTML 4.0	HTMLsymbol	ISOamsb	Symbole mathématique Produit vectoriel (Multiplié par cerclé)
+perp	⊥	U+22A5 (8869)	HTML 4.0	HTMLsymbol	ISOtech	Taquet vers le haut
+sdot	⋅	U+22C5 (8901)	HTML 4.0	HTMLsymbol	ISOamsb	Opérateur Point
+vellip	⋮	U+22EE (8942)	HTML 5.0	NC	?	Points de suspension verticaux
+lceil	⌈	U+2308 (8968)	HTML 4.0	HTMLsymbol	ISOamsc	Plafond à gauche
+rceil	⌉	U+2309 (8969)	HTML 4.0	HTMLsymbol	ISOamsc	Plafond à droite
+lfloor	⌊	U+230A (8970)	HTML 4.0	HTMLsymbol	ISOamsc	Plancher à gauche
+rfloor	⌋	U+230B (8971)	HTML 4.0	HTMLsymbol	ISOamsc	Plancher à droite
+lang	〈	U+2329 (9001)	HTML 4.0	HTMLsymbol	ISOtech	Chevron vers la gauche
+rang	〉	U+232A (9002)	HTML 4.0	HTMLsymbol	ISOtech	Chevron vers la droite
+loz	◊	U+25CA (9674)	HTML 4.0	HTMLsymbol	ISOpub	Losange
+spades	♠	U+2660 (9824)	HTML 4.0	HTMLsymbol	ISOpub	Pique noir
+clubs	♣	U+2663 (9827)	HTML 4.0	HTMLsymbol	ISOpub	Trèfle noir
+hearts	♥	U+2665 (9829)	HTML 4.0	HTMLsymbol	ISOpub	Cœur noir
+diams	♦	U+2666 (9830)	HTML 4.0	HTMLsymbol	ISOpub	Carreau noir
