@@ -31,14 +31,22 @@ public class Hascode64 {
 
         String w = "this is a String";
         System.out.println(w + " = " + h64(w));
-        w = "this is a string";
+        w = "CHAPTER 1";
+        System.out.println(w + " = " + h64(w));
+       System.out.println(w + " = " + s64(w));
+        w = "1";
+        System.out.println(w + " = " + h64(w));
+       System.out.println(w + " = " + s64(w));
+        w = "2";
         System.out.println(w + " = " + h64(w));
        System.out.println(w + " = " + s64(w));
 
     }
 
     public static final String s64(String s) {
-        return Long.toHexString(h64(s));
+        String resHex=Long.toHexString(h64(s));
+        resHex=("0000000000000000" + resHex).substring(resHex.length());
+        return resHex;
     }
 
     public static final long h64(String s) {

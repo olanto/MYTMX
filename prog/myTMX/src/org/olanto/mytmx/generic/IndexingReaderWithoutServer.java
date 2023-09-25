@@ -27,35 +27,34 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.lang.reflect.Array;
 import org.olanto.idxvli.*;
-import org.olanto.idxvli.server.IndexService_MyCat;
 import org.olanto.util.Timer;
 
 /**
  * index le corpus (sans mode serveur)
  */
-public class IndexingReader {      // is an application, not an applet !
+public class IndexingReaderWithoutServer {      // is an application, not an applet !
 
-
+    static IdxStructure id;
     static Timer t1 = new Timer("global time");
     
-        public static void indexThisDir(IndexService_MyCat is, String path, int limit, String txt_encoding) {
+        public static void indexThisDir(IdxStructure id, String path, int limit, String txt_encoding) {
         File f = new File(path);
         System.out.println("path:"+f);
         if (f.isFile()) {
             
             if (path.endsWith(".mono")) {
-                indexThis(is,f.getAbsolutePath(),limit,txt_encoding);
+                indexThis(id,f.getAbsolutePath(),limit,txt_encoding);
             }
         } else {
             String[] lf = f.list();
             int ilf = Array.getLength(lf);
             for (int i = 0; i < ilf; i++) {
-                indexThisDir(is,path + "/" + lf[i],limit,txt_encoding);
+                indexThisDir(id,path + "/" + lf[i],limit,txt_encoding);
             }
         }
     }
 
-    public static void indexThis(IndexService_MyCat is, String fileso, int limit, String txt_encoding) {
+    public static void indexThis(IdxStructure id, String fileso, int limit, String txt_encoding) {
         System.out.println("------------- index corpus: " + fileso );
         int totread = 0;
         try {
@@ -65,10 +64,12 @@ public class IndexingReader {      // is an application, not an applet !
             while (wso != null && totread < limit) {
                 String[] part = wso.split("\t");
                         totread++;
+                        String docnameso = part[0];
                         if (totread % 10000 == 0) {
-                            System.out.println(totread);
+                            System.out.println(totread+" - "+id.lastRecordedDoc);
                          }
-                        is.indexThisContent(part[0], part[1]);
+                     //   id.indexThisContent(part[0], part[1]);
+                      id.indexThisContentNoDuplicate(part[0], part[1]);
                         
                 wso = so.readLine();
             }

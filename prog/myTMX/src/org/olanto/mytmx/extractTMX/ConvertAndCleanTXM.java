@@ -42,11 +42,11 @@ public class ConvertAndCleanTXM {
     public static void main(String[] args) {
         HtmlEntitiesMap.init();
         String drive = "C:";
-        langSO = "de";langTA = "en";
+        langSO = "en";langTA = "fr";
 
         lang2 = langSO + "-" + langTA;
         sourceTMX = drive + "/MYTMX/corpus/TMX/";
-        targetMFLF = "C:" + "/MYTMX/corpus/BLCK/";
+        targetMFLF = drive + "/MYTMX/corpus/BLCK/";
 
 processdir(sourceTMX + lang2 + "/", lang2);
     }
